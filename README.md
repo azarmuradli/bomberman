@@ -1,4 +1,4 @@
-Bomberman multiplayer game implemented in pygame by my group at software technology class.
+Bomberman multiplayer game implemented in pygame at software technology class.
 
 
 Our multiplayer Bomberman game is an exciting and competitive experience where players navigate a 2-dimensional grid filled with obstacles, power-ups, and monsters. Each player controls a Bomberman character, aiming to be the last one standing by strategically placing bombs to eliminate opponents and clear paths. The game features destructible boxes that may reveal powerful bonuses, such as increased bomb range or special abilities like invincibility and ghost mode.
